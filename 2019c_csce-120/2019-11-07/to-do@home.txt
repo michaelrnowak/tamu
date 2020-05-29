@@ -1,0 +1,5 @@
+To do @ home
+
+Create a class template Matrix that stores objects of a given type in a
+two-dimensional array.  Write the constructor, copy constructor,
+copy assignment operator, and destructor for this class.
